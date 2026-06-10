@@ -32,5 +32,6 @@ Create a Python script file called hello_app.py (not a notebook) that prints 'He
 
 Screenshot:
 
-<img width="1595" height="908" alt="Screenshot 2026-06-10 114950" src="https://github.com/user-attachments/assets/7012faa9-6227-425c-a9cd-3e3dd71e12e6" />
+<img width="1488" height="897" alt="Screenshot 2026-06-10 122150" src="https://github.com/user-attachments/assets/a038ce6f-9c46-4c8b-bbd0-daeab0f97578" />
+
 
